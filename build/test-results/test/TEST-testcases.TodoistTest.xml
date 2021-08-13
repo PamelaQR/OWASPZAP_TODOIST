@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="testcases.TodoistTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-08-13T03:33:27" hostname="DESKTOP-PN1BFK5" time="33.474">
+  <properties/>
+  <testcase name="***************VERIFICA LA EJECUCION DE TODOIST******************" classname="testcases.TodoistTest" time="33.474"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[ago. 12, 2021 11:33:27 P. M. org.openqa.selenium.remote.DesiredCapabilities chrome
+INFO: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Starting ChromeDriver 92.0.4515.107 (87a818b10553a07434ea9e2b6dccf3cbe7895134-refs/branch-heads/4515@{#1634}) on port 32808
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+ago. 12, 2021 11:33:30 P. M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+]]></system-err>
+</testsuite>
